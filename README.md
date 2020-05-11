@@ -18,7 +18,7 @@ Some sample questions could be answered by looking at the created dashboard:
 
 -  What are the peak hours in which bikes are used during winter months?
 
-Included in the Dashboard is a static map, and various other styles of graphs. 
+Included in the Dashboard is a static map, and various other styles of graphs in order to explain my findings with data.
 
 Tableau Link: 
 https://public.tableau.com/profile/halle.morel#!/vizhome/biketest-dashboard/CitiBikeStory
